@@ -1,2 +1,2 @@
-# bpmSlacker
-Repo for the bpm dwa/stackoverflow Slack channel
+# slackstacker
+A simple bot for sending new Stack Overflow questions for BPM to Slack
